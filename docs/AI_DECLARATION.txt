@@ -40,7 +40,7 @@ StateFlow and SavedStateHandle across rotation and process
 death; the Spinner, explicit Intents and the sticky
 battery broadcast; the custom receiver in Activity 3;
 touch events, ScaleGestureDetector and the image Matrix;
-and MediaPlayer for video and audio..
+and MediaPlayer for video and audio.
 
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
