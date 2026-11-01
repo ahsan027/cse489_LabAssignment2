@@ -5,7 +5,7 @@
 Name: Ahsan Habib
 Student ID: 22201027
 Assignment: CSE 489 Assignment 2 
-Date:       1 November 2026
+Date: 1 November 2026
 
 ------------------------------------------------------------
 1. AI TOOLS USED (check all that apply)
@@ -41,6 +41,22 @@ death; the Spinner, explicit Intents and the sticky
 battery broadcast; the custom receiver in Activity 3;
 touch events, ScaleGestureDetector and the image Matrix;
 and MediaPlayer for video and audio.
+
+- Teach me the complete Navigation Drawer implementation using DrawerLayout, NavigationView, NavController, NavigationUI, and Fragments. Guide me in coding MainActivity, drawer_menu.xml, nav_graph.xml, toolbar integration, fragment navigation, and Back button handling.
+
+- Explain Publish/Subscribe, Message Queues, Observer Pattern, Event Loop, Intents, and Broadcast Receivers from scratch. Then guide me through implementing the Custom Broadcast Receiver and System Battery Receiver, including IntentFilters, registration, unregistration, message delivery, and lifecycle management.
+
+- Guide me through implementing the Image Scale feature using Coil 3, ImageView, Matrix, ScaleGestureDetector, and GestureDetector. Explain image loading, pinch-to-zoom, panning, double-tap zoom, zoom limits, error handling, and preserving zoom state during rotation.
+
+- Teach me how to implement the Video Player using VideoView and MediaController, including playback controls, lifecycle management, saving playback position, pausing, and resuming. Explain how video playback interacts with the Fragment lifecycle and navigation drawer.
+
+- Guide me through implementing the Audio Player using MediaPlayer, ViewModel, StateFlow, and Kotlin Coroutines. Explain Play, Pause, Stop, SeekBar, playback progress, timestamps, asynchronous preparation, player states, and resource management.
+
+- Explain Android Activity and Fragment lifecycles, configuration changes, ViewModel, SavedStateHandle, LiveData, and StateFlow. Show me how to preserve application data during rotation, prevent duplicate broadcasts, manage subscriptions, and avoid memory leaks.
+
+- Teach me how to handle asynchronous operations, callbacks, main-thread MessageQueue, background processing, and lifecycle-aware state collection. Explain how Coil downloads, MediaPlayer callbacks, Broadcast Receivers, and coroutine updates work without freezing the UI.
+
+- Review the complete project file by file and explain every important class, function, variable, callback, and code block. Give me small coding tasks, let me implement them independently, review my code, identify mistakes, and explain how to improve it.
 
 ------------------------------------------------------------
 4. AI-ASSISTED SECTIONS
