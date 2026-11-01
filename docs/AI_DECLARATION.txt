@@ -47,9 +47,6 @@ and MediaPlayer for video and audio..
 ------------------------------------------------------------
 List specific files/sections where AI helped significantly:
 
-ChatGPT output is not in any file; it was used only for
-understanding.
-
 File:    MainActivity.kt, res/layout/activity_main.xml,
          res/navigation/nav_graph.xml,
          res/menu/drawer_menu.xml
