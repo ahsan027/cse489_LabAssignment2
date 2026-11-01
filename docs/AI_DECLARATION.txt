@@ -24,12 +24,11 @@ Date:       30 October 2026
 ------------------------------------------------------------
 [x] Learning/understanding concepts
 [x] Debugging my code
-[x] Generating code snippets
-[x] Writing text content
+[ ] Generating code snippets
+[ ] Writing text content
 [x] Design/styling ideas
 [ ] Image generation
-[x] Other: Generating complete source files and tests
-
+[ ] Other:
 ------------------------------------------------------------
 3. DESCRIPTION OF AI USE
 ------------------------------------------------------------
