@@ -1,0 +1,15 @@
+# Gradle / Android build output
+.gradle
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+# Kotlin 2.x compiler session data
+.kotlin
+
+# Machine-specific files (SDK path, IDE state)
+local.properties
+*.iml
+/.idea/
+.DS_Store
